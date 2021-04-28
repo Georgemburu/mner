@@ -1,1 +1,2 @@
 # mner
+# cryptominer
